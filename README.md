@@ -1,4 +1,4 @@
-! the Council of Engineers at https://github.com/g23polar/council made this entire thing, I just watched
+## My Council of Engineers at https://github.com/g23polar/council made this entire thing, I just watched
 # Python Calculator with Graphing
 
 A local Python calculator application featuring basic arithmetic with PEMDAS support and multi-function graphing capabilities.
